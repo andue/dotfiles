@@ -21,5 +21,8 @@ brew install archey curl node siege tree wget
 brew install caskroom/cask/brew-cask
 brew cask install alfred2 appcleaner dash dropbox google-chrome iterm kaleidoscope spotify sublime-text tower
 
+# Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
+
 # Remove outdated versions from the cellar.
 brew cleanup

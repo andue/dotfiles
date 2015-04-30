@@ -8,6 +8,8 @@ forked from [https://github.com/mathiasbynens/dotfiles](https://github.com/mathi
 
 http://www.iterm2.com
 
+Xcode
+
 ### Using Git and the bootstrap script
 
 You can clone the repository wherever you want. (I like to keep it in `~/Projects/dotfiles`, with `~/dotfiles` as a symlink.) The bootstrapper script will pull in the latest version and copy the files to your home folder.
@@ -66,6 +68,12 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 
 ```bash
 curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+```
+
+### Install NPM global modules
+
+```bash
+./npm.sh
 ```
 
 
