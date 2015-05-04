@@ -10,6 +10,12 @@ http://www.iterm2.com
 
 Xcode
 
+### Install ZSH
+
+```bash
+curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
+```
+
 ### Using Git and the bootstrap script
 
 You can clone the repository wherever you want. (I like to keep it in `~/Projects/dotfiles`, with `~/dotfiles` as a symlink.) The bootstrapper script will pull in the latest version and copy the files to your home folder.
@@ -62,12 +68,6 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 
 ```bash
 ./brew.sh
-```
-
-### Install ZSH
-
-```bash
-curl -L https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh | sh
 ```
 
 ### Install NPM global modules
