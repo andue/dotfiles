@@ -103,6 +103,9 @@ plugins=(git brew gem svn sublime)
 
 source $ZSH/oh-my-zsh.sh
 
+# PATH
+# homebrew
+export PATH="/usr/local/bin:$PATH"
 
 # Customize to your needs...
 
