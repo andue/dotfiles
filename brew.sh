@@ -19,7 +19,7 @@ brew install archey node siege tree wget
 
 # Install Cask Apps
 brew install caskroom/cask/brew-cask
-brew cask install alfred2 appcleaner dash dropbox google-chrome kaleidoscope spotify sublime-text tower
+brew cask install alfred2 appcleaner boot2docker dash dropbox google-chrome kaleidoscope spotify sublime-text tower virtualbox
 
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
