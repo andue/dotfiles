@@ -14,7 +14,7 @@ brew update
 brew upgrade
 
 # Install brew apps
-brew install archey node siege tree wget
+brew install archey httpie node siege tree wget
 
 # Install Cask Apps
 brew install caskroom/cask/brew-cask
