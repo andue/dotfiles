@@ -18,7 +18,7 @@ brew install archey httpie node siege tree wget
 
 # Install Cask Apps
 brew install caskroom/cask/brew-cask
-brew cask install appcleaner caffeine cheatsheet dropbox evernote firefox kaleidoscope kitematic moom mplayerx paragon-ntfs spotify sublime-text the-unarchiver theine tower virtualbox
+brew cask install appcleaner caffeine cheatsheet diddumsdeux dropbox evernote firefox kaleidoscope kitematic moom mplayerx paragon-ntfs spotify sublime-text the-unarchiver theine tower virtualbox
 
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
