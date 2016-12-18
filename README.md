@@ -82,6 +82,6 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 When setting up a new Mac, you may want to set some sensible OS X defaults:
 
 ```bash
-./.osx
+./.macos
 ```
 
