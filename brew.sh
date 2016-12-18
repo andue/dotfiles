@@ -14,11 +14,11 @@ brew update
 brew upgrade
 
 # Install brew apps
-brew install archey httpie imagemagick node siege tree wget wireshark
+brew install archey httpie imagemagick nvm siege tree wget wireshark
 
 # Install Cask Apps
 brew install caskroom/cask/brew-cask
-brew cask install appcleaner atom caffeine cheatsheet dropbox evernote firefox kaleidoscope kitematic moneymoney moom mplayerx paragon-ntfs shiori the-unarchiver tower virtualbox
+brew cask install appcleaner atom caffeine cheatsheet dropbox evernote firefox kaleidoscope moneymoney mplayerx paragon-ntfs spotify shiori the-unarchiver tower virtualbox
 
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
