@@ -14,7 +14,7 @@ brew update
 brew upgrade
 
 # Install brew apps
-brew install archey git go httpie imagemagick mas nvm siege tree wget wireshark
+brew install archey git go httpie imagemagick mas siege tree wget wireshark
 
 # Install Cask Apps
 brew install caskroom/cask/brew-cask
