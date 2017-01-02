@@ -17,7 +17,7 @@ brew upgrade
 brew install archey git go httpie imagemagick mas siege tree wget wireshark
 
 # Install Cask Apps
-brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
 brew cask install appcleaner atom caffeine cheatsheet dropbox firefox iterm2 kaleidoscope moneymoney mplayerx paragon-ntfs robomongo spotify shiori the-unarchiver the-unarchiver tower virtualbox
 
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
