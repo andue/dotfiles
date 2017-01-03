@@ -14,7 +14,7 @@ brew update
 brew upgrade
 
 # Install brew apps
-brew install archey git go httpie imagemagick mas openssl siege tree wget wireshark
+brew install archey git go httpie imagemagick mas openssl siege tree vim wget wireshark
 
 # Install Cask Apps
 brew tap caskroom/cask
@@ -23,8 +23,8 @@ brew cask install appcleaner atom caffeine cheatsheet dropbox firefox google-chr
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
 brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
 
-# Install App Store Apps, pixelmator 1password pages slack magnet tweetbot
-mas install 407963104 443987910 409201541 803453959 441258766 557168941
+# Install App Store Apps, pixelmator 1password pages keynote numbers slack magnet tweetbot
+mas install 407963104 443987910 409201541 409203825 409183694 803453959 441258766 557168941
 
 # Remove outdated versions from the cellar.
 brew cleanup
