@@ -70,6 +70,12 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 ./brew.sh
 ```
 
+### Install sdkman.io
+
+```bash
+./sdkman.sh
+```
+
 ### Install NPM global modules
 
 ```bash
