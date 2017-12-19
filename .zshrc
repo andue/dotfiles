@@ -106,6 +106,4 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 
-
-# archey wonderful intro to shell
-/usr/local/bin/archey -c
+# add nvm + sdkman
