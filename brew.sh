@@ -21,7 +21,7 @@ brew tap caskroom/cask
 brew cask install appcleaner atom caffeine dropbox firefox google-chrome kaleidoscope mplayerx paragon-ntfs robomongo spotify shiori the-unarchiver tower
 
 # Install Cask Quicklook Plugins (https://github.com/sindresorhus/quick-look-plugins)
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package provisionql
+brew cask install qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv qlimagesize webpquicklook suspicious-package provisionql
 
 # Install App Store Apps, pixelmator 1password pages keynote numbers slack magnet tweetbot
 mas install 407963104 443987910 409201541 409203825 409183694 803453959 441258766 557168941
