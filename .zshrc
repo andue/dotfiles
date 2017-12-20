@@ -103,6 +103,7 @@ plugins=(brew docker git gem svn npm)
 
 source $ZSH/oh-my-zsh.sh
 
+export DEFAULT_USER="$(whoami)"
 
 # Customize to your needs...
 
